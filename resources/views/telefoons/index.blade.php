@@ -10,6 +10,7 @@
             <td><a href="{{ route('phoneinfo.index') }}" class="btn btn-secondary">Info</a> </td>
             <td><a href="{{ route('phoneinfo.create') }}"  class="btn btn-secondary">Add Info</a> </td>
         </td>
+        <td>To see new added phone add extra info to the phone</td>
     </tr>
     <tr>
         <td>id</td>
